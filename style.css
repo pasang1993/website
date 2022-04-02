@@ -1,0 +1,40 @@
+body{
+	background:gray;
+	font-size: 150%;
+	margin: 4%;
+}
+h1{
+	font-size: 150%;
+	color: whitesmoke;
+}
+
+header{
+	padding: 15px;
+	background: red;
+	text-align: center;
+}
+nav{
+	font-variant: small-caps;
+	font-size: 150%;
+	font-family: Arial, "Time New Roman", serif;
+}
+section{
+	width:30%;
+	display: inline-block;
+	float: left;
+	margin: 1%;
+}
+h2{
+	color: yellow;
+	background: dimgray;
+}
+details{
+	font-style: italic;
+}
+summary{
+	font-style: normal;
+}
+footer{
+	background: red;
+	clear: both;
+}
